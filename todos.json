@@ -1,1 +1,11 @@
-
+{
+  "todos": [
+    {
+      "id": "67d4db12-6a09-4a68-a7a7-05d0e5173fe7",
+      "text": "new todo test",
+      "completed": false,
+      "createdAt": "2025-09-04T04:40:01.269Z"
+    }
+  ],
+  "lastSyncAt": "2025-09-04T04:42:21.446Z"
+}
